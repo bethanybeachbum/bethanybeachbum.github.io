@@ -11,7 +11,7 @@ math: true
 ---
 
 ## Physical Preparation for the GAP
-[//]: # (![ohiopyle] (https://github.com/bethanybeachbum/bethanybeachbum.github.io/blob/main/assets/img/Ohiopyle.jpeg)
+
 ![group_bike](assets/img/borden-tunnel.jpg)
 
 The GAP Bike trail is on a former railroad track so the grade is never too perilous but it a long way from Pittsburg, PA to Cumberland, MD on a bike! So it is important to get physically prepared. Three days at fifty miles per day is more than most of us ever do for regular exercise so it is important to do some practice trips of at least twenty-five miles each.
