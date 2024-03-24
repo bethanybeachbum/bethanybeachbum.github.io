@@ -4,7 +4,7 @@ description: Wrapping Up - Great Alleghany Passageway
 author: Mark Brown
 date: 2024-03-08
 categories: [Biking, Exercise]
-tags: [Introduction]
+tags: [Ending]
 pin: true
 math: true
 mermaid: true
