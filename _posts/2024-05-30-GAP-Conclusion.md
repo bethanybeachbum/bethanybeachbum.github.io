@@ -1,6 +1,6 @@
 ---
 title: GAP Bike Trail Introduction
-description: Getting Ready to Bike the Great Alleghany Passageway
+description: Wrapping Up - Great Alleghany Passageway
 author: Mark Brown
 date: 2024-03-08
 categories: [Biking, Exercise]
