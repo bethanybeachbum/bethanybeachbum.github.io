@@ -14,16 +14,16 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The Preemptive Authority # the main title
+title: The Fearless Foursome Bike The GAP # the main title
 
-tagline: Biking The GAP # it will display as the sub-title
+tagline: Taking On The Great Alleghany Passageway Challenge # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Biking, Exercise, Nuitrition, Family, Beach, Jeep, Coding, Guitar, Bread Making, Blackstone Grilling
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://bethanybeachbum.github.io"
+url: ""
 
 github:
   username: bethanybeachbum # change to your github username
