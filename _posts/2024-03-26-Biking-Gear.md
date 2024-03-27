@@ -11,14 +11,17 @@ mermaid: true
 ---
 ##  All the Right Gear at the Right Time
 
- Nothing is worse than missing essential gear on a three day bike ride.  On the flip side lugging unnecessary gear for 150 miles over three days can contribute to a miserable ride.  We are here to make sure you pack the ride gear for overnight rides.  Here are the essential items to bring along when on a bike ride, without weighing you down.
+ For an enjoyable adventure let's insure that we have the essential gear for a three day bike ride.  On the flip side lugging unnecessary gear for 150 miles over three days can contribute to a miserable ride.  We are here to make sure you pack the ride gear for overnight rides.  Here are the essential items to bring along when on a bike ride, without weighing you down.
 
-1. Obviously a bike. However which bike?  Since this trail is 85% hard packed gravel I recommend a hybrid bike.  My choice is the Trek FX2 in red. 
+ And remember:  this gear list is for those stayig in hotels along the way.  If you are camping each night, your essential packing list becomes a bit longer.
+
+1.  Obviously you need a bike. However which bike?  Since this trail is 85% hard packed gravel I recommend a hybrid bike.  My choice is the Trek FX2 in red. I don't except any endorsements for this recommendations.  The FX2 series from Trek runs in the $750 to $799 price range.  Sometimes a little more or less depending on what features the bike store has added to it.  This bike is just one of many that will work for your trip.
  ![bike](/assets/img/trek.png){:height="300px" width="400px"}
 
-2. Panniers
+2. Panniers  - don't skimp on them and make sure they are waterproof.
 
 ![panniers](/assets/img/pannier-on-bike.png){:height="300px" width="200px"}
+
 
 3. Sunglasses
 4. Bike shorts
