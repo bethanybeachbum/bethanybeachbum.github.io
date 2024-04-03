@@ -27,7 +27,7 @@ Mark is a ...
 |![biker1](/assets/img/about/bike1.JPG){:height="200px" width="200px"} | ![biker2](/assets/img/about/bike2.JPG){:height="200px" width="200px"} | |
 
 | 🟢  EXERCISE ENTHUSIAST | |
-| ![exercise1](/assets/img/about/exercise1.jpg){:height="200px" width="200px"}| | |
+| ![exercise1](/assets/img/about/exercise.jpg){:height="200px" width="200px"}| | |
 
 
 
