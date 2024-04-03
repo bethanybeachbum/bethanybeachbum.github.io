@@ -12,7 +12,7 @@ Mark is a ...
 | 🟢  PARTITME BLOGGER             |                  |             |
 | 🟢  DRIVES A JEEP AT THE BEACH                    |          |        |
 | 🟢  HANGS WITH THE FAMILY
-| 🟢  TRAVELER | | | 
+| 🟢  TRAVEL | | | 
 | :--------------------------- | :--------------------------- |---------------------------: |
 |  Paradise Valley, Montana | Miami, Florida |  | 
 |![travel1](/assets/img/about/travel1.jpg){:height="300px" width="300px"} | ![travel2](/assets/img/about/travel2.jpg){:height="300px" width="300px"} 
