@@ -124,7 +124,7 @@ C. Hirst stands on both sides of the continental divide with a celebratory bever
 
 <hr style="border: 13px solid DarkCyan; width 75%;">
 
-![map](/assets/img/Day3Afternoon/number1marker.jpg)
+![map](/assets/img/Day3Afternoon/Number1marker.jpg)
 
 ## <center><b><span style="color:Maroon">This mile marker was a long time coming.  After 148 of these markers, finally number 1</span></b></center>
 
