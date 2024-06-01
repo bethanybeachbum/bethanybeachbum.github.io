@@ -24,7 +24,7 @@ mermaid: true
 
 <hr style="border: 3px solid Crimson; width 75%;">
 
-![map](/assets/img/Day3Morning/Day3_map.jpeg)
+![map](/assets/img/Day3Morning/day3_map.jpeg)
 <center> Our Route on Day 3</center>
 
 ##   The last day encompassed the steepest uphill and downhill grades of our journey
@@ -54,7 +54,7 @@ We started early and hit the trail before 8AM
 
 ![map](/assets/img/Day3Morning/Mark_bridge.jpg)
 ![map](/assets/img/Day3Morning/Mark_Rob_Pinkerton_Bridge.jpg)
-![map](/assets/img/Day3Morning/$200casselmanriver_bridge3.jpg)
+![map](/assets/img/Day3Morning/$200casselman_river_bridge3.jpg)
 
 ## We were rewarded with a bike ride across massive train bridges and biking through tunnels bored through the hillsides.  
 
@@ -66,7 +66,7 @@ The 100 Foot drop below down to the Cassellman River
 For a majority of our trip you could hear the rushing rapids nearby.
 </span></center>
 
-![pinkerton2](/assets/img/Day3Morning/$Pinkertonhigh30.jpg)
+![pinkerton2](/assets/img/Day3Morning/$pinkertonhigh30.jpg)
 
 ### Placards along the trail tell the story that the Cassellman River has so many sharp bends at the Pinkerton Horn that the only solution for the railroad engineers was to dig the Pinkerton tunnel. 
 
