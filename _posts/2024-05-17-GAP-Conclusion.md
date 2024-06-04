@@ -38,6 +38,15 @@ mermaid: true
 
 <p style="color:Teal; font-size:larger; font-weight:bold ">9. Make sure you have a light on the front of your bike for the tunnels.  Some tunnels close in the Winter and there is no detour - just a dead end!</p>
 
+<p style="color:Teal; font-size:larger; font-weight:bold ">-- First, you ride your bike with no gear and you have someone with a car drive each day to your hotel.  Your bike is much ligher but you need someone that is willing to move hotel to hotel with your luggage</p>
+
+<p style="color:Teal; font-size:larger; font-weight:bold ">-- Second, you ride with your gear in saddle bags or panniers.  You bike is heavier and harder to push but no one needs to drive your luggage from hotel to hotel.</p>
+
+<p style="color:Teal; font-size:larger; font-weight:bold ">Third, you camp each night.  Probably the least expensive, but definitely hauling the most weight since you will be bringing tents, sleeping bags, food, and cooking utentsils.  This usually requires some kind of bike trailer, cart or wagon.</p>
+
+<p style="color:Teal; font-size:larger; font-weight:bold ">11.  If you are staying in hotels, book early!  Our coordinator, Carl, booked many months in advance but didn't always get a hotel or home rentail in the town of our choice.</p>
+
+
 
 </div>
 
