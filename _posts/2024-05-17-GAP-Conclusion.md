@@ -20,15 +20,15 @@ mermaid: true
 
 <p style="color:Teal; font-size:larger; font-weight:bold ">1. Bring more cash along in addition to credit cards. There are many little restaurants that are inexpensive and prefer cash.  Support local!</p>
    
-<p style="color:Teal; font-size:larger; font-weight:bold ">2. Carry less stuff.  Constantly ask yourself, "Is there any way I do without this?"  Remember the old adage about going on vacation:  Bring twice the cash and half the clothes!</p>
+<p style="color:Teal; font-size:larger; font-weight:bold ">2. Carry less stuff.  Constantly ask yourself, "Is there any way I can do without this?"  Remember the old adage about going on vacation:  Bring twice the cash and half the clothes!</p>
 
 <p style="color:Teal; font-size:larger; font-weight:bold ">3. Go North to South on the GAP if you can.  That is Pittsburgh to Cumberland.  The elevation gain between Cumberland and the continental divide is the steepest.  You want to be going down hill!</p>
 
-<p style="color:Teal; font-size:larger; font-weight:bold ">4. It is a ride not a race.  Take lots of pictures and enjoy the beauty. Stop often to savor the sites.</p>
+<p style="color:Teal; font-size:larger; font-weight:bold ">4. It is a ride not a race.  Take lots of pictures and enjoy the beauty.  Stop often to savor the sites.</p>
 
 <p style="color:Teal; font-size:larger; font-weight:bold ">5. Pay close attention to the weather and bring as little clothes as needed.</P>
 
-<p style="color:Teal; font-size:larger; font-weight:bold ">6. There are two long stretches with few or no towns or anything! Keep this in mind for food and water.</P>
+<p style="color:Teal; font-size:larger; font-weight:bold ">6. There are two long stretches with few or no towns or anything! Keep this in mind for food and water.  They are:</P>
 <p style="color:Teal; font-size:larger; font-weight:bold ">--   Twenty-Five miles of trail just North of Connellsville</p>
 <p style="color:Teal; font-size:larger; font-weight:bold ">--   The 30 mile trek between Confluence and Meyersdale.</p>
 
@@ -38,13 +38,15 @@ mermaid: true
 
 <p style="color:Teal; font-size:larger; font-weight:bold ">9. Make sure you have a light on the front of your bike for the tunnels.  Some tunnels close in the Winter and there is no detour - just a dead end!</p>
 
-<p style="color:Teal; font-size:larger; font-weight:bold ">-- First, you ride your bike with no gear and you have someone with a car drive each day to your hotel.  Your bike is much ligher but you need someone that is willing to move hotel to hotel with your luggage</p>
+<p style="color:Teal; font-size:larger; font-weight:bold ">10. There are three common ways to travel the GAP for sleeping each night:</p>
+
+<p style="color:Teal; font-size:larger; font-weight:bold ">-- First, you ride your bike with no gear and you have someone with a car drive each day to your hotel.  Your bike is much ligher but you need someone that is willing to move hotel to hotel with your luggage.</p>
 
 <p style="color:Teal; font-size:larger; font-weight:bold ">-- Second, you ride with your gear in saddle bags or panniers.  You bike is heavier and harder to push but no one needs to drive your luggage from hotel to hotel.</p>
 
 <p style="color:Teal; font-size:larger; font-weight:bold ">Third, you camp each night.  Probably the least expensive, but definitely hauling the most weight since you will be bringing tents, sleeping bags, food, and cooking utentsils.  This usually requires some kind of bike trailer, cart or wagon.</p>
 
-<p style="color:Teal; font-size:larger; font-weight:bold ">11.  If you are staying in hotels, book early!  Our coordinator, Carl, booked many months in advance but didn't always get a hotel or home rentail in the town of our choice.</p>
+<p style="color:Teal; font-size:larger; font-weight:bold ">11.  If you are staying in hotels, book early!  Our coordinator, Carl, booked many months in advance but didn't always get a hotel or home rental in the town of our choice.</p>
 
 
 
